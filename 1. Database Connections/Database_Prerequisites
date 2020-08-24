@@ -1,0 +1,10 @@
+
+Go to path where pip.exe is present 
+C:\Users\17167\AppData\Local\Programs\Python\Python37-32\Scripts
+
+pip install SQLAlchemy
+pip install mysql-connector-python
+
+Dowload MySql from the following link:
+https://www.mysql.com/downloads/
+Install the latest version which supports python 3.7 

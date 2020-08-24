@@ -1,0 +1,1 @@
+The connection scripts from python to database and weather information sources will reside here

@@ -1,0 +1,1 @@
+These functions are to create the speed, altitude, heartrate, and other derived metrics on top of the raw data
